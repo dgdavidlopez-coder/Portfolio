@@ -28,8 +28,8 @@ En mi portfolio encontraras algunos de mis proyectos destacados:
 ---
 
 ## Contacto 
-- 📧 Email: [tuemail@example.com](david_garlop@outlook.es)
-- 💼 LinkedIn: [linkedin.com/in/TU-USUARIO](www.linkedin.com/in/david-garcía-lopez-aa4346223)
+- 📧 Email: [david_garlop@outlook.es](mailto:tuemail@example.com) 
+- 💼 LinkedIn: [www.linkedin.com/in/david-garcía-lopez-aa4346223](www.linkedin.com/in/david-garcía-lopez-aa4346223)
 - 🐙 GitHub: [github.com/TU-USUARIO](https://github.com/TU-USUARIO)
 
 ---

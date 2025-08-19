@@ -23,14 +23,14 @@ En mi portfolio encontraras algunos de mis proyectos destacados:
 ---
 
 ## Ver el sitio en linea
-👉 [Mi Portfolio en GitHub Pages](https://TU-USUARIO.github.io/portfolio)
+👉 [Mi Portfolio en GitHub Pages]([https://TU-USUARIO.github.io/portfolio](https://dgdavidlopez-coder.github.io/Portfolio/))
 
 ---
 
 ## Contacto 
-- 📧 Email: [david_garlop@outlook.es](mailto:tuemail@example.com) 
-- 💼 LinkedIn: [https://www.linkedin.com/in/david-garcía-lopez-aa4346223](www.linkedin.com/in/david-garcía-lopez-aa4346223)
-- 🐙 GitHub: [https://github.com/dgdavidlopez-coder](https://github.com/TU-USUARIO)
+- 📧 Email: [david_garlop@outlook.es](david_garlop@outlook.es) 
+- 💼 LinkedIn: [https://www.linkedin.com/in/david-garcía-lopez-aa4346223](https://www.linkedin.com/in/david-garcía-lopez-aa4346223)
+- 🐙 GitHub: [https://github.com/dgdavidlopez-coder](https://github.com/dgdavidlopez-coder)
 
 ---
 

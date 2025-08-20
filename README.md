@@ -13,12 +13,12 @@ Actualmente estoy aprendiendo **HTML, CSS, Javascript, Java, PHP, Angular, Node 
 ---
 
 ## 🚀 Proyectos incluidos
-En mi portfolio encontraras algunos de mis proyectos destacados:
+Estoy creando ahora mismo proyectos para mostrar mis habilidades
 
 
 
 
-*(Más proyectos estarán en camino... 🚧)*
+*(Los proyectos estan en camino... 🚧)*
 
 ---
 

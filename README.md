@@ -37,7 +37,7 @@ Estoy especialmente interesado en el desarrollo web, tanto frontend como backend
 Actualmente estoy creando proyectos para subir y poder mostrar mis habilidades.  
 Pronto tendré listos algunos proyectos que podrás ver y explorar.
 
-- [Portfolio GitHub Repository](https://dgdavidlopez-coder.github.io/Proyecto-Portfolio/)  
+- [Portfolio GitHub Repository](https://dgdavidlopez-coder.github.io/Portfolio/)  
 
 > Nota: Esta sección se actualizará a medida que suba nuevos proyectos.
 

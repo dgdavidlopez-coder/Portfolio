@@ -47,7 +47,7 @@ Pronto tendré listos algunos proyectos que podrás ver y explorar.
 
 - Email: [david_garlop@outlook.es](mailto:david_garlop@outlook.es)  
 - LinkedIn: [linkedin.com/in/david-garcía-lopez-aa4346223](https://www.linkedin.com/in/david-garcía-lopez-aa4346223)  
-- GitHub: [github.com/dgdavidlopez-coder](https://github.com/dgdavidlopez-coder)  
+- GitHub: [github.com/dgdavidlopez-coder](https://dgdavidlopez-coder.github.io/Portfolio/)  
 
 ---
 
